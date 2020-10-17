@@ -1,3 +1,8 @@
+# FaceBook Clone
+Live here 👉 https://faclone.web.app
+
+![Facebook Clone made with React & Firebase.](screenshot1.jpg?raw=true "Facebook Clone made with React & Firebase.")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
