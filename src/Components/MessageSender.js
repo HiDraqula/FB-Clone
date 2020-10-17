@@ -8,8 +8,8 @@ import { useStateValue } from '../StateProvider'
 import firebase from 'firebase'
 import db from '../firebase'
 
-import axios from '../axios'
-import FormData from 'form-data'
+// import axios from '../axios'
+// import FormData from 'form-data'
 
 const MessageSender = () => {
     const [input, setInput] = useState('')

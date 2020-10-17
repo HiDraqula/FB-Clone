@@ -3,8 +3,8 @@ import './Feed.css'
 import MessageSender from './MessageSender'
 import Post from './Post'
 import StoryReel from './StoryReel'
-import axios from '../axios'
-import Pusher from 'pusher-js'
+// import axios from '../axios'
+// import Pusher from 'pusher-js'
 
 import db from '../firebase'
 
